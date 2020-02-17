@@ -7,3 +7,4 @@ Andrid project - CIS4515
 ## Map fragment displays pins for each available parter.
 ## Map update with partners’ locations every 30 seconds.
 ## Request and updates user’s name and location every 10 meters moved.
+![Screen Shot ](https://user-images.githubusercontent.com/42784914/74676255-97f1e700-5183-11ea-91cd-d6331410005b.png)
